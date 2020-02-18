@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+
+.container{
+    margin-top: 100px;
+}
+.button {
+    border-radius: 60%;
+    border: none;
+    padding: 30px;
+    display: inline-block;
+    margin: 5px 3px;
+}
+
+.button1 {
+    background-color:purple;
+}
+.button2 {
+    background-color:skyblue;
+}
+.button3 {
+    background-color:green;
+}
+.button4 {
+    background-color:orange;
+}
+.button5 {
+    background-color:palevioletred;
+}
+.button6 {
+    background-color:red;
+}
+.button7 {
+    background-color:lightseagreen;
+}
+.c1{
+    border: skyblue solid;
+    border-width: 5px;
+    background-color:yellow;
+}
+.col .right{
+    margin-top: 200px;
+   margin-right: 20px;
+   
+}
+.title1{
+    color: red;
+}
+.title2{
+    color: lightseagreen;
+}
